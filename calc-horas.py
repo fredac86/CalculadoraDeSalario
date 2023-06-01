@@ -17,7 +17,7 @@ root = Tk()
 root.title("Calculadora de Salário Mensal")
 
 
-root.iconbitmap(r"C:\\Users\\Fred\\Desktop\\calc-horas\\icon.ico")
+root.iconbitmap("icon.ico")
 root.configure(bg="SteelBlue3") 
 
 # Função para exibir a imagem no cabeçalho
